@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment, secrets & credentials safety
+.env
+.env.*
+*.key
+*.pem
+*.crt
+
+# Logs & temporary files
+*.log
+*.tmp
+*.bak
+*.swp
